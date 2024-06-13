@@ -1,33 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9B26A&height=120&section=header"/>
-
-
-
-
-
-
-<div align="center">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0kira-vgl&layout=compact&hide_border=true&title_color=D9AF8B&text_color=F2CEAE&bg_color=0d1117" />
-</div>
-
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=737373&height=120&section=header"/>
 
  
 ## My Skills
 
-
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img  height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+<div style="display: flex; gap: 5px;">
+  <img height="40" width="40" title="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img height="40" width="40" title="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img height="40" width="40" title="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img height="40" width="40" title="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img height="40" width="40" title="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="40" width="40" title="NextJs" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+  <img height="40" width="40" title="Tailwind CSS" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
+</div>
 
 
+## Work Tools
+
+<div style="display: flex; gap: 5px;">
+  <img height="40" width="40" title="Figma" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img height="40" width="40" title="Visual Studio Code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img height="40" width="40" title="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img height="40" width="40" title="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+</div>
 
 
 ## Contact Me
@@ -39,6 +33,4 @@
  </div>
 
 
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9B26A&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=737373&height=120&section=footer"/>
