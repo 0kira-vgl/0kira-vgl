@@ -1,6 +1,25 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B6B77&height=120&section=header"/>
 
 
+## Welcome To My Profile
+
+
+<details>
+  <summary>👨‍💻 More about me</summary>
+
+- test
+
+- test
+
+- test
+</details>
+
+
+> _"ja dizia..."_
+>
+> — _Musashi Myamoto_
+
+
 <div align="left">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0kira-vgl&layout=compact&hide_border=true&title_color=6B6B77&text_color=6B6B77&bg_color=0d1117" />
 </div>
