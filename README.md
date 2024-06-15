@@ -2,20 +2,22 @@
 
 
 <div align="center">
-  <h1>Welcome To My Profile</h1>
+  <h1><em>Welcome To My Profile</em></h1>
 </div>
 
+<p>👋 Hi, I'm Matheus! A technology enthusiast and Front-end developer.</p>
+
+<br>
 
 <details>
   <summary>👨‍💻 More about me</summary>
 
-- test
+- Currently, I am studying Systems Development at Etec.
 
-- test
-
-- test
+- I enjoy reading, whether it's a good book or manga. Additionally, I like watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and to problem-solving.
 </details>
 
+<br>
 
 > _"Strategy without tactics is the slowest route to victory. Tactics without strategy are the noise before defeat."_
 >
@@ -58,5 +60,14 @@
 </a>
  </div>
 
+<br>
+
+<div align="center">
+  <h1><em>Thank you for visiting my profile ;)<em></h1>
+
+  ![Café saindo fumaça](https://i.gifer.com/17xo.gif)
+</div>
+
+![Café saindo fumaça](https://i.gifer.com/17xo.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B6B77&height=120&section=footer"/>
