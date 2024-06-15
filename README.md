@@ -63,11 +63,12 @@
 <br>
 
 <div align="center">
-  <h1><em>Thank you for visiting my profile ;)<em></h1>
+  <h3><em>Thank you for visiting my profile ;)<em></h3>
 
-  ![Café saindo fumaça](https://i.gifer.com/17xo.gif)
+  <br>
+
+  ![nyanCat](https://github.com/0kira-vgl/0kira-vgl/assets/125319244/14e56882-3974-4021-b790-3e839dca54a1)
 </div>
 
-![Café saindo fumaça](https://i.gifer.com/17xo.gif)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6B6B77&height=120&section=footer"/>
