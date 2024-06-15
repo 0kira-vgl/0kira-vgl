@@ -14,6 +14,8 @@
 
 - 📚 Currently, I am studying Systems Development at Etec.
 
+- 💻 My goal is to become an excellent software and cybersecurity engineer.
+
 - 🍿 I enjoy reading, whether it's a good book or manga. Additionally, I like watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and to problem-solving.
 </details>
 
