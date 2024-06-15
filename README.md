@@ -12,9 +12,9 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-- Currently, I am studying Systems Development at Etec.
+- 📚 Currently, I am studying Systems Development at Etec.
 
-- I enjoy reading, whether it's a good book or manga. Additionally, I like watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and to problem-solving.
+- 🍿 I enjoy reading, whether it's a good book or manga. Additionally, I like watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and to problem-solving.
 </details>
 
 <br>
