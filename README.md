@@ -5,7 +5,7 @@
   <h1><em>Welcome To My Profile</em></h1>
 </div>
 
-<h3>👋 Hi, I'm Matheus! A technology enthusiast and Front-end developer.</h3>
+<h3>Hello, I'm Matheus, a technology enthusiast and Front-end developer!</h3>
 
 <br>
 
