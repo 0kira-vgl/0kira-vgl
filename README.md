@@ -57,7 +57,7 @@
 ## Contact Me
 
 <div>
-<a href="https://matheustiburcio.vercel.app/" target="_blank"><img title="My Portfolio" alt="My Portfolio" src="https://img.shields.io/badge/My_Portifolio-333?style=for-the-badge&logo=sinon" /></a>
+<a href="https://matheustiburcio.vercel.app/" target="_blank"><img title="My Portfolio" alt="My Portfolio" src="https://img.shields.io/badge/my portfolio-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/matheus-tiburcio-82a337276/" target="_blank"><img title="Linkedin" alt="Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:matheusgtiburcio@gmail.com"> <img title="Email" alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
